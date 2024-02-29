@@ -11,8 +11,10 @@
     // Your Node.js dependencies
   },
   "devDependencies": {
-    "eslint": "^7.32.0"
-    // Other development dependencies
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.7"
   },
   "engines": {
     "node": ">=12.0.0"
