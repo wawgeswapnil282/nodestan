@@ -4,8 +4,8 @@
   "description": "Your Node.js application",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",  // Adjust the lint script according to your file structure
-    "start": "node index.js"  // Adjust the start script based on your application entry point
+    "lint": "eslint .",
+    "start": "node index.js"
   },
   "dependencies": {
     // Your Node.js dependencies
