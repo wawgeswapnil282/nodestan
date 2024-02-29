@@ -1,0 +1,23 @@
+{
+  "name": "your-node-app",
+  "version": "1.0.0",
+  "description": "Your Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",  // Adjust the lint script according to your file structure
+    "start": "node index.js"  // Adjust the start script based on your application entry point
+  },
+  "dependencies": {
+    // Your Node.js dependencies
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+    // Other development dependencies
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "eslintConfig": {
+    // Your ESLint configuration goes here
+  }
+}
